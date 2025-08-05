@@ -83,4 +83,4 @@ content: `You are a helpful AI assistant for [Your Company]. You should...`
   
 
 
-  MODEL: 'mistralai/mistral-small-3.2-24b-instruct:free'
+
