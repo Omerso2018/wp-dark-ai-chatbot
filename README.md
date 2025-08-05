@@ -9,7 +9,7 @@ Fully responsive, dark-themed AI chatbot for WordPress — integrates seamlessly
 
 ---
 
-## 🔥 Features
+# 🔥 Features
 
 - ✨ **Minimal setup** – just copy & paste into WordPress
 - 🎨 **Dark theme design** – perfect for dark-themed websites
@@ -50,7 +50,7 @@ API: {
   KEY: 'YOUR_OPENROUTER_API_KEY', // ← Replace with your key
 ```
 -------------------------------------------------------------
-🧠 System Prompt
+## 🧠 System Prompt
 Update the system prompt to match your business needs:
 ```javascript
 role: 'system',
@@ -58,12 +58,17 @@ content: `You are a helpful AI assistant for [Your Company]. You should...`
 ```
 -------------------------------------------------------
 
-#🛠 Technologies Used
+## 🛠 Technologies Used
 
 📄 Pure HTML, CSS, JS (Vanilla)
+
 🧠 OpenRouter.ai for LLM interaction
+
 🛡️ DOMPurify (XSS-safe)
+
 ✍️ Marked.js (Markdown rendering)
+
+------------------------------------------
 
 # 📜 License
 
@@ -75,6 +80,7 @@ content: `You are a helpful AI assistant for [Your Company]. You should...`
 
 - Feel free to open issues, suggest features, or submit pull requests. Let’s build smarter web experiences together!
 
+  
 
-  MODEL: 'mistralai/mistral-small-3.2-24b-instruct:free', // ← Change model if needed
-}
+
+  MODEL: 'mistralai/mistral-small-3.2-24b-instruct:free'
