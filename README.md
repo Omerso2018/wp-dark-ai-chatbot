@@ -46,8 +46,6 @@ Replace the following with your OpenRouter credentials:
 
 ```javascript
 API: {
-   ENDPOINT: 'https://openrouter.ai/api/v1/chat/completions',
-
         KEY: 'YOUR_OPENROUTER_API_KEY', // Replace with your actual API key
 
         MODEL: 'mistralai/mistral-small-3.2-24b-instruct:free', // Default model
