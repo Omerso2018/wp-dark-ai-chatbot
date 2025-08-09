@@ -2,8 +2,13 @@
 
 A sleek, modern, and fully responsive AI-powered chatbot designed for **WordPress** websites. This chatbot is styled for **dark mode** themes and integrates with **OpenRouter** to utilize powerful LLMs (Large Language Models) like Mistral, Claude, GPT, and more.
 
+
 # 📷 UI Previews
-<img width="1920" height="1080" alt="Chatbot-Black" src="https://github.com/user-attachments/assets/a050ef27-dac6-4bab-b4e6-5fe7995c1403" />
+
+| Theme  | Preview |
+|--------|---------|
+|  Purple  | purple Chatbot UI <img width="1920" height="1080" alt="purple" src="https://github.com/user-attachments/assets/6d637f12-1b2e-424d-8147-2a9bc7801966" />|
+|   Blue   | Blue Chatbot UI <img width="2560" height="1440" alt="blueUI" src="https://github.com/user-attachments/assets/fd995d70-2a7b-49ee-8682-b79b5dc1f298" />|
 Fully responsive, dark-themed AI chatbot for WordPress — integrates seamlessly with OpenRouter LLMs using just one HTML file.
 
 
