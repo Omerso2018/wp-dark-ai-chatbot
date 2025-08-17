@@ -9,6 +9,7 @@ A sleek, modern, and fully responsive AI-powered chatbot designed for **WordPres
 |--------|---------|
 |Purple| purple Chatbot UI <img width="1920" height="1080" alt="purple" src="https://github.com/user-attachments/assets/6d637f12-1b2e-424d-8147-2a9bc7801966" />|
 |Blue| Blue Chatbot UI <img width="2560" height="1440" alt="blueUI" src="https://github.com/user-attachments/assets/fd995d70-2a7b-49ee-8682-b79b5dc1f298" />|
+|red| red Chatbot UI <img width="1920" height="1080" alt="redui" src="https://github.com/user-attachments/assets/1ad9a415-2735-4220-8bf5-0424c1fd6623" />|
 
 Fully responsive, dark-themed AI chatbot for WordPress — integrates seamlessly with OpenRouter LLMs using just one HTML file.
 
